@@ -1,0 +1,2 @@
+[[include]]
+config="https://github.com/APN-Pucky/break-lorevault#master:loop.toml"
